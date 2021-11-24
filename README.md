@@ -57,3 +57,8 @@ Train the model
 Evaluate the model using the test data
 
 Export our model to HDF5 file
+
+
+testing one was done by changing cut off values and testing 3 rd is done by changing no of neuron and adding 3rd layer
+but it can not achieve results more than 75 %.
+

@@ -31,6 +31,11 @@ Split our preprocessed data into our features and target arrays
 
 Create a StandardScaler instances
 
+## testing 
+in 2nd testing changed classification and Application Types cut off values and it did not have much impact.
+In 3rd testing increased a 3 rd layer which actualy decreces the efficiency.
+
+
  Fit the StandardScale
 
  Scale the data
